@@ -8,34 +8,46 @@ I'm a passionate **Software Developer** with a strong background in **Machine Le
 
 ## 🛠️ Technical Skills
 
-- **Programming Languages:** C++, Python
-- **Frameworks & Libraries:** TensorFlow, PyTorch, Keras, NLTK, OpenCV, Express.js, Streamlit
-- **Databases & Cloud:** MongoDB, SQL Server, Microsoft Azure
-- **Tools & Platforms:** Git, GitHub, Docker, Azure Data Factory
-- **Specialties:** Machine Learning Models, NLP, CNNs, Data Warehousing, ETL Pipelines
+### Programming Languages
 
-## 🚀 Projects
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### [Quora Backend Service](https://github.com/Chinmayadas2003/Quora-backend)
+### Frameworks & Libraries
 
-- Developed a scalable backend for a Quora-like platform using **Node.js**, **Express**, and **MongoDB**.
-- Implemented CRUD operations, centralized error handling, and Winston-based logging.
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-0277BD?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### [Pothole Detector](https://github.com/Chinmayadas2003/codeutsava7)
+### Databases & Cloud
 
-- Retrained the **YOLOv8** model for pothole detection with 91% accuracy.
-- Implemented real-time video streaming using the **RTMP** protocol.
-- Built a **Flask** backend to store images and location data in **MongoDB**.
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-### [GitHub Repository Analyzer](https://github.com/Chinmayadas2003/Github_repository_analyser)
+### Tools & Platforms
 
-- Utilized **OpenAI's ChatGPT-4** and **BM25** for codebase analysis and contextualized search.
-- Implemented repository cloning, tokenization, and question-answering functionalities.
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0066B8?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-### [Sentiment Classification on IMDb Movie Reviews](https://colab.research.google.com/drive/1WDngywdJN5YmYn7cyVNtfQxpgI9tbh9X?usp=sharing)
+### Specialties
 
-- Developed a neural network using **TensorFlow** for sentiment analysis.
-- Achieved 88% accuracy on validation data and 92% on training data.
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Natural Language Processing](https://img.shields.io/badge/NLP-0277BD?style=for-the-badge&logo=google-translate&logoColor=white)
+![Convolutional Neural Networks](https://img.shields.io/badge/CNNs-FF0000?style=for-the-badge&logo=deep-learning&logoColor=white)
+![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-FFB900?style=for-the-badge&logo=microsoft-access&logoColor=white)
+![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-8C1515?style=for-the-badge&logo=apache-airflow&logoColor=white)
+
+## 🎓 Education
+
+### National Institute of Technology, Raipur
+
 
 ## 💼 Work Experience
 
@@ -49,31 +61,7 @@ I'm a passionate **Software Developer** with a strong background in **Machine Le
 - Developed Python scripts using **OpenAI’s API** to automate business description retrieval based on NAICS numbers.
 - Implemented concurrency and parallel API fetching, reducing latency by **5x**.
 
-## 🎓 Education
 
-### National Institute of Technology, Raipur
-
-**B.Tech in Electrical Engineering**  
-CGPA: **7.87 / 10**  
-**Expected Graduation:** May 2025
-
-### Delhi Public School, Kalinga, Cuttack
-
-- **Class 12 (PCM, CS)**  
-  Percentage: **97.6%**  
-  Completed: **2021**
-
-- **Class 10**  
-  Percentage: **97.4%**  
-  Completed: **2019**
-
-## 🏆 Achievements
-
-- **Winner** of Hackathon **Codeutsava 7.0**
-- **Ranked 77** in **ZS Associates Campus Beats** competition
-- **Microsoft Certified**: Azure AI Fundamentals
-- **5-star** rating in SQL on HackerRank, **Advanced SQL** certification
-- Active contributor on **Kaggle**
 
 ## 🌐 Connect with Me
 
@@ -83,13 +71,21 @@ CGPA: **7.87 / 10**
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
 ![Chinmaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chinmayadas2003&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmayadas2003&layout=compact&theme=radical)
 
+</div>
+
 ## 🔥 Streak Stats
 
+<div align="center">
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chinmayadas2003&theme=radical)
+
+</div>
 
 ## 📝 Certifications
 
@@ -108,12 +104,13 @@ CGPA: **7.87 / 10**
 
 Feel free to reach out if you want to collaborate on a project or just want to connect!
 
+- **Email:** chinmayadas2003@rediffmail.com
 - **LinkedIn:** [Chinmaya Kumar Das](https://linkedin.com/in/chinmaya-kumar-das-223bb5187)
 - **GitHub:** [Chinmayadas2003](https://github.com/Chinmayadas2003)
 
 ---
 
-**Note:** This README is a brief overview of my skills and projects. For more details, please check out my repositories or connect with me on LinkedIn.
+**Note:** This README is a brief overview of my skills and experiences. For more details, please check out my repositories or connect with me on LinkedIn.
 
 ---
 
@@ -133,18 +130,10 @@ Feel free to reach out if you want to collaborate on a project or just want to c
 
 - I love exploring new technologies and applying them to solve real-world problems.
 
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Coming Soon!]
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 💬 Languages
 
-- **English:** Fluent
-- **Hindi:** Native
+![English](https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge)
+![Hindi](https://img.shields.io/badge/Hindi-Native-orange?style=for-the-badge)
 
 ---
 
@@ -158,9 +147,9 @@ Feel free to reach out if you want to collaborate on a project or just want to c
 
 ## 🎨 Hobbies
 
-- Coding challenges on **LeetCode**.
-- Participating in **Hackathons**.
-- Learning about **AI advancements**.
+- Coding challenges on **LeetCode**
+- Participating in **Hackathons**
+- Learning about **AI advancements**
 
 ---
 
