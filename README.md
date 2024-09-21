@@ -58,19 +58,7 @@ I'm a passionate **Software Developer** with a strong background in **Machine Le
 
 ### National Institute of Technology, Raipur
 
-**B.Tech in Electrical Engineering**  
-CGPA: **7.87 / 10**  
-**Expected Graduation:** May 2025
 
-### Delhi Public School, Kalinga, Cuttack
-
-- **Class 12 (PCM, CS)**  
-  Percentage: **97.6%**  
-  Completed: **2021**
-
-- **Class 10**  
-  Percentage: **97.4%**  
-  Completed: **2019**
 
 ## 💼 Work Experience
 
